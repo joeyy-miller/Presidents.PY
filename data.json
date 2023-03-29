@@ -1,0 +1,14 @@
+{
+	"presidents": [
+		{
+			"president_name" : "George Washington",
+			"years"          : "1789 - 1797",
+			"quote"			 : "To be or not to be that is the question"
+		},
+		{
+			"president_name" : "John Adams",
+			"years"          : "1797 - 1805",
+			"quote"			 : "Remove yourself, man!"
+		}
+	]
+}
