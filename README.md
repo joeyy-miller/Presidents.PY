@@ -9,3 +9,4 @@ Just type `[python interpreter, e.g. python3] presidents.py` to get an output th
 + Add more quotes
 + Add more styling to the output
 + Add dates that presidents said the quote
+
