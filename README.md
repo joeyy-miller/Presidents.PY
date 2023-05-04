@@ -7,3 +7,5 @@ Just type `[python interpreter, e.g. python3] presidents.py` to get an output th
 
 # Todo:
 + Add more quotes
++ Add more styling
++ Add dates that presidents said the quote
